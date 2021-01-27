@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GridSquare
+comment0.text=\r\n\ \ a\ simple\ extension\ of\ JButton\ which\ allows\ the\ background\ colour\ to\ be\ set\ and\ switched\ back\ and\ forth\ with\ ease\r\n\ \ \r\n\ \ there\ are\ other\ ways\ of\ doing\ this,\ but\ it's\ a\ neat\ way\ to\ demonstrate\ how\ to\ create\ your\ own\ gui\ components\r\n\ \ (as\ well\ as\ how\ to\ use\ ternary\ operators)\r\n
+comment1.params=xcoord\ ycoord
+comment1.target=GridSquare(int,\ int)
+comment2.params=decider
+comment2.target=void\ setColor(int)
+comment3.params=
+comment3.target=boolean\ setLegal()
+comment4.params=
+comment4.target=boolean\ getLegality()
+comment5.params=
+comment5.target=int\ getx()
+comment6.params=
+comment6.target=int\ gety()
+comment7.params=
+comment7.target=void\ eat()
+comment8.params=
+comment8.target=void\ uneat()
+comment9.params=decider
+comment9.target=void\ reset(int)
+numComments=10

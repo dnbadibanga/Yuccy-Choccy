@@ -1,0 +1,18 @@
+How to run:
+1) extract the file into an open folder
+2) open terminal/command prompt
+3) navigate to correct directory
+4) enter compile code:
+javac *.java
+5) enter the code
+java Driver
+
+Game Instructions:
+1) pick a size for the chocolate bar
+2) human always goes first
+3) pick an outer edge piece (from the top or left side only)
+4) the leftmost upper piece (the soap)
+   is not a valid selection
+5) wait 4 seconds, the computer will take her turn
+5) whomever is left with the soap piece is the loser
+6) to play again, click on the reset button

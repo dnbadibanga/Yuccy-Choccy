@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=YuckyChoccy
+comment0.text=\r\n\ \ the\ main\ window\ of\ the\ gui\r\n\ \ notice\ that\ it\ extends\ JFrame\ -\ so\ we\ can\ add\ our\ own\ components\r\n\ \ notice\ that\ it\ implements\ ActionListener\ -\ so\ we\ can\ handle\ user\ input\r\n
+comment1.params=x\ y
+comment1.target=YuckyChoccy(int,\ int)
+comment1.text=\r\n\ \ constructor\ method\ takes\ as\ input\ how\ many\ rows\ and\ columns\ of\ gridsquares\ to\ create\r\n\ \ it\ then\ creates\ the\ panels,\ their\ subcomponents\ and\ puts\ them\ all\ together\ in\ the\ main\ frame\r\n\ \ it\ makes\ sure\ that\ action\ listeners\ are\ added\ to\ selectable\ items\r\n\ \ it\ makes\ sure\ that\ the\ gui\ will\ be\ visible\r\n
+comment2.params=
+comment2.target=void\ play()
+comment3.params=aevt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.text=\r\n\ \ handles\ actions\ performed\ in\ the\ gui\r\n\ \ this\ method\ must\ be\ present\ to\ correctly\ implement\ the\ ActionListener\ interface\r\n
+comment4.params=
+comment4.target=void\ loser()
+comment5.params=
+comment5.target=void\ yourTurn()
+comment6.params=
+comment6.target=void\ myTurn()
+comment7.params=
+comment7.target=void\ pause()
+comment8.params=
+comment8.target=void\ reset()
+numComments=9
